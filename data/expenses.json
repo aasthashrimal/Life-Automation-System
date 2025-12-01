@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "date": "2025-12-01",
+      "category": "food",
+      "amount": 15.50,
+      "description": "Lunch at cafe"
+    },
+    {
+      "date": "2025-12-01",
+      "category": "transport",
+      "amount": 3.25,
+      "description": "Bus ticket"
+    }
+  ]
+}

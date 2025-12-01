@@ -1,0 +1,9 @@
+{
+  "Mon": ["Oatmeal with berries", "Veggie wrap", "Lentil soup"],
+  "Tue": ["Scrambled eggs", "Leftover soup", "Chicken stir-fry"],
+  "Wed": ["Yogurt with granola", "Leftover stir-fry", "Pasta with lentil meatballs"],
+  "Thu": ["Oatmeal with banana", "Leftover pasta", "Black bean burger"],
+  "Fri": ["Scrambled eggs with salsa", "Leftover burger", "Baked salmon with quinoa"],
+  "Sat": ["Pancakes with berries", "Grilled chicken salad", "Homemade pizza"],
+  "Sun": ["Vegetable omelette", "Leftover pizza", "Roasted chicken with veggies"]
+}

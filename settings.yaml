@@ -1,0 +1,29 @@
+api_keys:
+  gemini: "YOUR_GEMINI_API_KEY_HERE"
+
+paths:
+  workdir: "las_work"
+  memory_file: "las_memory.json"
+  calendar_file: "calendar.json"
+  meals_file: "meals.json"
+  expenses_file: "expenses.json"
+
+agents:
+  - CalendarAgent
+  - MealPlannerAgent
+  - GroceryAgent
+  - TravelPlannerAgent
+  - FinanceAgent
+  - WellnessAgent
+  - MemoryAgent
+
+defaults:
+  currency: "USD"
+  timezone: "UTC"
+  meal_preferences: []
+  dietary_restrictions: []
+
+google_sheets:
+  expense_sheet_id: "1L8QdTdzMiBRHfWDd5JK7D2sKe519puusf7liTYmLous"
+  wellness_sheet_id: "1KrcMpFdfl44XmYxiqyybokQ09VH6UTxpnBhkcCxUoOY"
+  credentials_file: "service_account.json"
